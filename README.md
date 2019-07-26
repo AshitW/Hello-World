@@ -2,4 +2,4 @@
 For Learning how to use Git
 
 
-I am editing something to check hwo commit works
+I am editing something to check how commit works
